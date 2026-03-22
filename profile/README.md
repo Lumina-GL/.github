@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=LUMINA%20—%20GL&fontSize=85&animation=fadeIn&fontAlignY=45&fontColor=ffffff&desc=ADVANCED%20OPTICAL%20SHADER%20LABORATORY&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=LUMINA%20—%20GL&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&desc=ADVANCED%20OPTICAL%20SHADER%20LABORATORY&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
