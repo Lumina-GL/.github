@@ -1,7 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=250&section=header&text=LUMINA%20—%20GL&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff&desc=ADVANCED%20OPTICAL%20SHADER%20LABORATORY&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://your-repo-link/header-visual.gif" width="100%" style="border-radius: 10px;" />
+  <h1 align="center">L U M I N A — G L</h1>
+  <p align="center"><i>ADVANCED OPTICAL SHADER LABORATORY</i></p>
 </p>
 
 <p align="center">
